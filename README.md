@@ -1,3 +1,3 @@
-# Responsive-portfolio-made-with-Bulma
-Responsive portfolio template made with CSS framework "Bulma".
+# Responsive-portfolio-built-with-Bulma
+Responsive portfolio template built with CSS framework "Bulma".
 
