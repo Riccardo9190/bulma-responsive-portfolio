@@ -1,4 +1,4 @@
-# Responsive portfolio template with  Bulma
+# Responsive portfolio template with Bulma
 Responsive portfolio template built with CSS framework Bulma.
 
 To run this template, you just need to:
